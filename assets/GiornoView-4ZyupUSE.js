@@ -1,0 +1,1 @@
+import{_ as o}from"./Weather.vue_vue_type_script_setup_true_lang-Doy4mY1T.js";import{d as e,e as a,o as n}from"./index-D85gJKBM.js";const i=e({__name:"GiornoView",setup(t){return(r,_)=>(n(),a(o,{location:"Milan, Italy"}))}});export{i as default};

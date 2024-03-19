@@ -1,0 +1,1 @@
+import{d as r,r as t,o as s,c as l,t as e}from"./index-D85gJKBM.js";const u=r({__name:"Weather",props:{location:{default:"Milan, Italy"}},setup(c){const a=t(15),n=t("Sunny");return(o,p)=>(s(),l("div",null,e(o.location)+" - "+e(a.value)+"°C - "+e(n.value),1))}});export{u as _};
